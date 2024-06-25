@@ -39,12 +39,5 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://kiro.my.id"><img src="https://img.shields.io/badge/-kiro.my.id-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:kirofyzu@gmail.com"><img src="https://img.shields.io/badge/-kirofyzu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/callme_kiro"><img src="https://img.shields.io/badge/-@callme_kiro_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=KiroFyzu&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat" alt="kirofyzu"/> 
-</p>
-
 
 -----
